@@ -25,6 +25,10 @@ Dar una oportunidad equitativa tanto a las grandes empresas como a particulares 
 [Roomiapp](https://roomiapp.com/)
 [Booking](https://www.booking.com/)
 
+#### Diseño de la página
+
+Colores: Azules, grises y blancos.
+
 ### Integrantes del Proyecto
 
 |Name|Email|Address|   
@@ -38,8 +42,6 @@ Dar una oportunidad equitativa tanto a las grandes empresas como a particulares 
 1. Product Owner: Victoria Lizárraga. 
 2. Scrum Master: Juan Tovar.
 3. Developers Team: Jonathan Domínguez, Victoria Lizárraga y Juan Tovar.
-
-
 
 
 #### Avances del proyecto
