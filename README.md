@@ -44,6 +44,6 @@ Dar una oportunidad equitativa tanto a las grandes empresas como a particulares 
 
 #### Avances del proyecto
 
-[Tablero de Trabajo](https://trello.com/b/nj8YY2pW/proyecto-integrador)
-[Projecto en Github](https://github.com/JuanitoTovar/Grupo_7_PaginaHotelera.git)
+* [Tablero de Trabajo](https://trello.com/b/nj8YY2pW/proyecto-integrador)
+* [Projecto en Github](https://github.com/JuanitoTovar/Grupo_7_PaginaHotelera.git)
 
