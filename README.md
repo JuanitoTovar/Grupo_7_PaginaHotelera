@@ -19,11 +19,11 @@ Dar una oportunidad equitativa tanto a las grandes empresas como a particulares 
 
 #### Páginas de referencia:
 
-[Tripadvisor](https://www.tripadvisor.com/)
-[Airb&n](https://www.airbnb.com/)
-[Viva Anuncios](https://www.vivanuncios.com.mx)
-[Roomiapp](https://roomiapp.com/)
-[Booking](https://www.booking.com/)
+* [Tripadvisor](https://www.tripadvisor.com/)
+* [Airb&n](https://www.airbnb.com/)
+* [Viva Anuncios](https://www.vivanuncios.com.mx)
+* [Roomiapp](https://roomiapp.com/)
+* [Booking](https://www.booking.com/)
 
 #### Diseño de la página
 
@@ -49,3 +49,13 @@ Colores: Azules, grises y blancos.
 * [Tablero de Trabajo](https://trello.com/b/nj8YY2pW/proyecto-integrador)
 * [Projecto en Github](https://github.com/JuanitoTovar/Grupo_7_PaginaHotelera.git)
 
+#### Bocetos
+
+[Documento Google](https://docs.google.com/document/d/1a9UhW_dSxOL5Rio6mhIm5N0_ikjaaLW2D8q9LLpgl-w/edit?usp=sharing)
+
+[Wireframe](https://wireframe.cc/M3WcJt)
+
+####Retrospectiva
+
+* (Miro) [https://miro.com/app/board/o9J_loDvHtg=/]
+* (Mural) [https://www.mural.co/]
