@@ -53,7 +53,7 @@ Colores: Azules, grises y blancos.
 |Name|Email|Address|   
 |----|-----|-------| 
 |Victoria Lizárraga|victoria.lizcor@gmail.com|victoria.lizarraga@alumno.buap.mx|
-|Juan Tovar|correo1|correo2|
+|Juan Tovar|garfil34@gmail.com|Queretaro|
 |Jonathan Domínguez|correo1|correo2|
 
 ## Roles de Scrum del proyecto
