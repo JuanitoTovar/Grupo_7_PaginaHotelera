@@ -17,6 +17,24 @@ Conectar a todas las personas interesadas en ofrecer un servicio de alojamiento 
 ### Metas:
 Dar una oportunidad equitativa tanto a las grandes empresas como a particulares de ofrecer un servicio.
 
+### Objetivo del producto: 
+El objetivo de la página será crear una red social para turistas y personas que ofrezcan un servicio de renta de habitación (hoteleros). 
+
+#### Características:
+
+* Todos los visitantes deberán crear una cuenta de usuario, ya sea como turista o como hotelero. 
+* Los turistas podrán buscar un lugar para vacacionar adecuado para su economía y necesidades. Las recomendaciones serán de acuerdo al  interés de destino por el turista y las fechas de reservación. 
+Entre las posibles opciones de reservación para los turistas, estarán disponibles casas, departamentos, habitaciones, espacios de camping, etc. (dependiendo de los hoteleros y lo que ofrecen) 
+* Los turistas podrán ver las mejores recomendaciones del lugar a visitar de acuerdo a las calificaciones de usuarios pasados o mediante el rating de google, booking, trip advisor, etc. 
+Una vez que termina el tiempo reservado, se le pedirá al turista dar un rating del hospedaje y lugares que visitó (uso de gps/ubicación). 
+* La página mostrará recom*endaciones de lugares a visitar del lugar seleccionado por el turista, por ejemplo para hacer eco turismo, vida nocturna, compras, etc. (posiblemente recomendación por los Hoteleros a la hora de registrarse). 
+* La página mostrará un mapa con la ubicación del lugar a hospedarse y las posibles actividades a realizar en la cercanía. 
+* La página recordará fechas de temporada baja o alta del lugar a visitar (posible rango de precios registrados por los hoteles). 
+* Los hoteleros podrán ofrecer servicio de renta de habitación/departamento por el tiempo necesario para el turista. 
+* Los hoteleros podrán dar una calificación al turista que usó su servicio o en su caso a la persona encargada de hacer la reservación por grupo. 
+* Posible opción aleatoria de un lugar a visitar( dependiendo del perfil del usuario), sobre todo para personas aventureras. 
+
+
 #### Páginas de referencia:
 
 * [Tripadvisor](https://www.tripadvisor.com/)
