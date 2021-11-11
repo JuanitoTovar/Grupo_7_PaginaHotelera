@@ -25,6 +25,7 @@ Dar una oportunidad equitativa tanto a las grandes empresas como a particulares 
 * [Roomiapp](https://roomiapp.com/)
 * [Booking](https://www.booking.com/)
 
+
 #### Diseño de la página
 
 Colores: Azules, grises y blancos.
@@ -48,7 +49,7 @@ Colores: Azules, grises y blancos.
 
 * [Tablero de Trabajo](https://trello.com/b/nj8YY2pW/proyecto-integrador)
 * [Projecto en Github](https://github.com/JuanitoTovar/Grupo_7_PaginaHotelera.git)
-
+* [Tablero de retrospectiva](https://miro.com/welcomeonboard/WkRzSkZ3dk1veGFibW5jWDUyVEdmOFJIOTl0ZUhHWXY4SkVFM09URUlyZm9pTTNoY1hWdmtjRmhDbzJCVUVNTXwzMDc0NDU3MzU4Nzg5NTE5Mzg3?invite_link_id=415671134759)
 #### Bocetos
 
 [Documento Google](https://docs.google.com/document/d/1a9UhW_dSxOL5Rio6mhIm5N0_ikjaaLW2D8q9LLpgl-w/edit?usp=sharing)
